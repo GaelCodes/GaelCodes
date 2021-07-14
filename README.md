@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaelCodes
-- 👀 I’m interested in Programming, Web Development
+- 👀 I’m interested in Programming and Web Development
 - 🌱 I’m currently learning Git&Github, Sass
 - 💞️ I’m looking to collaborate on some awesomes proyects
 - 📫 How to reach me
