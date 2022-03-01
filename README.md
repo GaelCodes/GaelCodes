@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GaelCodes
 - 👀 I’m interested in Programming and Web Development
-- 🌱 I’m currently learning Git&Github and Sass
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on some awesomes proyects
 - 📫 How to reach me
     * Send me a email to abigael-hf@hotmail.com
