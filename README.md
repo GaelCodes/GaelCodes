@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GaelCodes
+- 👋 Hi, I’m @AbigaelCodes
 - 👀 I’m interested in Programming and Web Development
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on some awesomes proyects
